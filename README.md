@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mikhail
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mikhail
 ===============================================================================================================================
 
 Backend developer
@@ -37,3 +37,4 @@ Backend developer
 <a href="http://www.github.com/MikhailDolinnyi"><img src="https://github-readme-stats.vercel.app/api?username=MikhailDolinnyi&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="MikhailDolinnyi's GitHub stats" /></a>
 
 <a href="https://github.com/MikhailDolinnyi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhailDolinnyi&langs_count=10&title_color=ffffff&text_color=3382ed&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
