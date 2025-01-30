@@ -5,7 +5,8 @@ Backend developer
 -----------------
 
 * 🌍  I'm based in Saint-Petersburg | Yaroslavl, Russia
-* 🚀  I'm currently working on [React-Spring WebApplication](http://github.com/MikhailDolinnyi/React-Spring-WebApplication)
+* 🛠  I'm currently working on [React-Spring WebApplication](http://github.com/MikhailDolinnyi/React-Spring-WebApplication)
+* 🏋️‍♂️ Сome with me to crossfit
 
 ### Skills
 
