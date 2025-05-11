@@ -1,11 +1,10 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mikhail
+Hello! I'm Mikhail
 ===============================================================================================================================
 
 Backend developer
 -----------------
 
 * 🌍  I'm based in Saint-Petersburg | Yaroslavl, Russia
-* 🛠  I'm currently working on [React-Spring WebApplication](http://github.com/MikhailDolinnyi/React-Spring-WebApplication)
 * 🏋️‍♂️ Сome with me to crossfit
 
 ### Skills
